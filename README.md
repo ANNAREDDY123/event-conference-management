@@ -975,16 +975,4 @@ Business logic
 API testing
 Database performance
 Clean architecture
-📄 License
 
-This project was created for educational and assignment purposes.
-
-
-Save and close Notepad.
-
-### Step 2 — Verify the file
-
-Run:
-
-```powershell
-Get-Item README.md
